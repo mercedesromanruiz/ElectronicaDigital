@@ -50,25 +50,67 @@ R10
 !i113 1
 R11
 R12
+Esum4
+Z14 w1696615737
+R2
+R3
+!i122 7
+R0
+Z15 8C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd
+Z16 FC:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd
+l0
+L4 1
+VJNOojzl<N;N<fEVz7<O7@2
+!s100 0QJPXC6OAzI16OAM0a>>83
+R6
+32
+Z17 !s110 1696615747
+!i10b 1
+Z18 !s108 1696615747.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd|
+Z20 !s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd|
+!i113 1
+R11
+R12
+Aarch_sum4
+R13
+R2
+R3
+Z21 DEx4 work 4 sum4 0 22 JNOojzl<N;N<fEVz7<O7@2
+!i122 7
+l14
+Z22 L12 8
+V8XcMaa9aHR0o:9KQ65Yn71
+!s100 Obl]6XhAK]@W7P6c`?kzh1
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
 Esum4_vector
-Z14 w1696613477
+Z23 w1696613477
 R2
 R3
 !i122 3
 R0
-Z15 8C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd
-Z16 FC:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd
+R15
+R16
 l0
 L4 1
 V8NVNA5Z[T94K9Y@Q=;oGP2
 !s100 mKRKH5>0[X8E3;?GYh:gE1
 R6
 32
-Z17 !s110 1696613485
+Z24 !s110 1696613485
 !i10b 1
-Z18 !s108 1696613485.000000
-Z19 !s90 -reportprogress|300|-work|work|C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd|
-!s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd|
+Z25 !s108 1696613485.000000
+R19
+R20
 !i113 1
 R11
 R12
@@ -79,38 +121,38 @@ R3
 DEx4 work 11 sum4_vector 0 22 8NVNA5Z[T94K9Y@Q=;oGP2
 !i122 3
 l14
-L12 8
+R22
 VnHJ?OJ[h6P_58Y?3hE0?K2
 !s100 IIUkWJ_iXJY9JjO[:=:LF2
 R6
 32
-R17
+R24
 !i10b 1
-R18
+R25
 R19
-Z20 !s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/Sum4.vhd|
+R20
 !i113 1
 R11
 R12
 Etbsum1
-Z21 w1696611503
+Z26 w1696611503
 R2
 R3
 !i122 1
 R0
-Z22 8C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd
-Z23 FC:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd
+Z27 8C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd
+Z28 FC:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd
 l0
 L4 1
 VI^7nLRmM_c6B@ednHcFiz0
 !s100 fTmZg<g]43`DYf?7fVg<J1
 R6
 32
-Z24 !s110 1696611668
+Z29 !s110 1696611668
 !i10b 1
-Z25 !s108 1696611668.000000
-Z26 !s90 -reportprogress|300|-work|work|C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd|
-Z27 !s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd|
+Z30 !s108 1696611668.000000
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd|
+Z32 !s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum1.vhd|
 !i113 1
 R11
 R12
@@ -126,11 +168,53 @@ V]IDKP9TTfSIS;iJRkP=<F1
 !s100 2?DEA^C`BbThK0gicY<MH1
 R6
 32
-R24
+R29
 !i10b 1
-R25
-R26
-R27
+R30
+R31
+R32
+!i113 1
+R11
+R12
+Etbsum4
+Z33 w1696615775
+R2
+R3
+!i122 9
+R0
+Z34 8C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum4.vhd
+Z35 FC:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum4.vhd
+l0
+L4 1
+V^B3ER0<=DO4Eg:Igc;BkM3
+!s100 o4`AlW_klG6=K@7>jHg;^3
+R6
+32
+Z36 !s110 1696615779
+!i10b 1
+Z37 !s108 1696615779.000000
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum4.vhd|
+!s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum4.vhd|
+!i113 1
+R11
+R12
+Aarch_tbsum4
+R21
+R2
+R3
+DEx4 work 6 tbsum4 0 22 ^B3ER0<=DO4Eg:Igc;BkM3
+!i122 9
+l10
+L7 30
+Vdlz8dB]Y=f==BK_zES;=21
+!s100 A1F>V^Af4hmb_jz6l>nMI2
+R6
+32
+R36
+!i10b 1
+R37
+R38
+Z39 !s107 C:/Users/Mercedes/Documents/GitHub/ElectronicaDigital/Practica1/TBSum4.vhd|
 !i113 1
 R11
 R12
