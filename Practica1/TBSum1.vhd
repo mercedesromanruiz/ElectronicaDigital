@@ -1,0 +1,18 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity TBSum1 is
+end TBSum1;
+
+architecture Arch_TBSum1 of TBSum1 is
+	signal TB_A : std_logic := '0';
+	signal TB_B : std_logic := '0';
+	signal TB_EA : std_logic := '0';
+	signal TB_S, TB_SC : std_logic;
+begin
+	sum1: entity work.sum1 port map (TB_A, TB_B, TB_EA, TB_S, TB_SC);
+
+	TB_A <= not TB_A after 40ns;
+	TB_B <= not TB_B after 20ns;
+	TB_EA <= not TB_EA after 10ns;
+end Arch_TBSum1;

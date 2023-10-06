@@ -1,5 +1,5 @@
 library IEEE;
-use IEEE.std_logic_1194.all;
+use IEEE.std_logic_1164.all;
 
 entity sum1 is
 	port(A, B, EA : in std_logic;
